@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Gracias por ayudarnos a mejorar la aplicación. Completa todos los campos posibles y no incluyas contraseñas, tokens ni datos personales.
+        Gracias por ayudarme a mejorar la aplicación. Completa todos los campos posibles y no incluyas datos sensibles.
 
   - type: input
     id: android-version
@@ -22,8 +22,8 @@ body:
     id: app-version
     attributes:
       label: Versión de la aplicación
-      description: Puedes encontrarla en la pantalla "Acerca de" o en la tienda de aplicaciones.
-      placeholder: 1.2.3
+      description: Ve a la sección de "Settings", da click en "About", y verás la versión de la aplicación en un texto asi: `v0.x.x | @tutosrive | ©️ 202x |`.
+      placeholder: 0.5.1
     validations:
       required: true
 
@@ -99,4 +99,4 @@ body:
     id: additional-context
     attributes:
       label: Información adicional
-      description: Añade pasos alternativos, permisos involucrados, conexión utilizada u otro contexto útil.
+      description: Añade pasos alternativos.
