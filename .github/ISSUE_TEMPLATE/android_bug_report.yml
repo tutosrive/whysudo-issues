@@ -1,1 +1,111 @@
-bmFtZTogUmVwb3J0ZSBkZSBlcnJvciBBbmRyb2lkCmRlc2NyaXB0aW9uOiBSZXBvcnRhIHVuIHByb2JsZW1hIHJlcHJvZHVjaWJsZSBlbiBsYSBhcGxpY2FjacOzbiBBbmRyb2lkCnRpdGxlOiAiW0J1ZyBBbmRyb2lkXTogIgpsYWJlbHM6CiAgLSBidWcKYm9keToKICAtIHR5cGU6IG1hcmtkb3duCiAgICBhdHRyaWJ1dGVzOgogICAgICB2YWx1ZTogfAogICAgICAgIEdyYWNpYXMgcG9yIGF5dWRhcm5vcyBhIG1lam9yYXIgbGEgYXBsaWNhY2nDs24uIENvbXBsZXRhIHRvZG9zIGxvcyBjYW1wb3MgcG9zaWJsZXMgeSBubyBpbmNsdXlhcyBjb250cmFzZcOxYXMsIHRva2VucyBuaSBkYXRvcyBwZXJzb25hbGVzLgoKICAtIHR5cGU6IGlucHV0CiAgICBpZDogYW5kcm9pZC12ZXJzaW9uCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogVmVyc2nDs24gZGUgQW5kcm9pZAogICAgICBkZXNjcmlwdGlvbjogSW5kaWNhIGxhIHZlcnNpw7NuIGRlbCBzaXN0ZW1hIG9wZXJhdGl2byBBbmRyb2lkIGRlbCB0ZWzDqWZvbm8gKHBvciBlamVtcGxvLCBBbmRyb2lkIDE0KS4gTm8gaW50cm9kdXpjYXMgYXF1w60gbGEgdmVyc2nDs24gZGUgbGEgYXBsaWNhY2nDs24uCiAgICAgIHBsYWNlaG9sZGVyOiBBbmRyb2lkIDE0CiAgICB2YWxpZGF0aW9uczoKICAgICAgcmVxdWlyZWQ6IHRydWUKCiAgLSB0eXBlOiBpbnB1dAogICAgaWQ6IGFwcC12ZXJzaW9uCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogVmVyc2nDs24gZGUgbGEgYXBsaWNhY2nDs24KICAgICAgZGVzY3JpcHRpb246IFB1ZWRlcyBlbmNvbnRyYXJsYSBlbiBsYSBwYW50YWxsYSAiQWNlcmNhIGRlIiBvIGVuIGxhIHRpZW5kYSBkZSBhcGxpY2FjaW9uZXMuCiAgICAgIHBsYWNlaG9sZGVyOiAxLjIuMwogICAgdmFsaWRhdGlvbnM6CiAgICAgIHJlcXVpcmVkOiB0cnVlCgogIC0gdHlwZTogaW5wdXQKICAgIGlkOiBkZXZpY2UtbW9kZWwKICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiBNb2RlbG8gZGVsIGNlbHVsYXIKICAgICAgZGVzY3JpcHRpb246IEluY2x1eWUgZmFicmljYW50ZSB5IG1vZGVsbyBleGFjdG8uCiAgICAgIHBsYWNlaG9sZGVyOiBTYW1zdW5nIEdhbGF4eSBBNTQgNUcKICAgIHZhbGlkYXRpb25zOgogICAgICByZXF1aXJlZDogdHJ1ZQoKICAtIHR5cGU6IGlucHV0CiAgICBpZDogcmFtCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogUkFNIGRlbCBkaXNwb3NpdGl2bwogICAgICBkZXNjcmlwdGlvbjogSW5kaWNhIGxhIG1lbW9yaWEgUkFNIGRpc3BvbmlibGUgbyBpbnN0YWxhZGEsIHNpIGxhIGNvbm9jZXMuCiAgICAgIHBsYWNlaG9sZGVyOiA4IEdCCiAgICB2YWxpZGF0aW9uczoKICAgICAgcmVxdWlyZWQ6IHRydWUKCiAgLSB0eXBlOiBkcm9wZG93bgogICAgaWQ6IGZyZXF1ZW5jeQogICAgYXR0cmlidXRlczoKICAgICAgbGFiZWw6IEZyZWN1ZW5jaWEgZGVsIGVycm9yCiAgICAgIG9wdGlvbnM6CiAgICAgICAgLSBTaWVtcHJlCiAgICAgICAgLSBBIHZlY2VzCiAgICAgICAgLSBPY3VycmnDsyB1bmEgc29sYSB2ZXoKICAgICAgICAtIE5vIGxvIHPDqQogICAgdmFsaWRhdGlvbnM6CiAgICAgIHJlcXVpcmVkOiB0cnVlCgogIC0gdHlwZTogdGV4dGFyZWEKICAgIGlkOiBkZXNjcmlwdGlvbgogICAgYXR0cmlidXRlczoKICAgICAgbGFiZWw6IERlc2NyaXBjacOzbiBkZWwgZXJyb3IKICAgICAgZGVzY3JpcHRpb246IEV4cGxpY2EgcXXDqSBvY3VycmnDsywgcXXDqSBlc3RhYmFzIGhhY2llbmRvIHkgcG9yIHF1w6kgcmVwcmVzZW50YSB1biBwcm9ibGVtYS4KICAgICAgcGxhY2Vob2xkZXI6IExhIGFwbGljYWNpw7NuIHNlIGNpZXJyYSBhbC4uLgogICAgdmFsaWRhdGlvbnM6CiAgICAgIHJlcXVpcmVkOiB0cnVlCgogIC0gdHlwZTogdGV4dGFyZWEKICAgIGlkOiByZXByb2R1Y3Rpb24tc3RlcHMKICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiBQYXNvcyBwYXJhIHJlcHJvZHVjaXIgZWwgZXJyb3IKICAgICAgZGVzY3JpcHRpb246IEVzY3JpYmUgbG9zIHBhc29zIGV4YWN0b3MgZGVzZGUgcXVlIGFicmVzIGxhIGFwbGljYWNpw7NuIGhhc3RhIHF1ZSBhcGFyZWNlIGVsIHByb2JsZW1hLgogICAgICBwbGFjZWhvbGRlcjogfAogICAgICAgIDEuIEFicmUgbGEgYXBsaWNhY2nDs24uCiAgICAgICAgMi4gVmUgYS4uLgogICAgICAgIDMuIFB1bHNhLi4uCiAgICAgICAgNC4gT2JzZXJ2YSBxdWUuLi4KICAgIHZhbGlkYXRpb25zOgogICAgICByZXF1aXJlZDogdHJ1ZQoKICAtIHR5cGU6IHRleHRhcmVhCiAgICBpZDogZXhwZWN0ZWQtYmVoYXZpb3IKICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiBDb21wb3J0YW1pZW50byBlc3BlcmFkbwogICAgICBkZXNjcmlwdGlvbjogRGVzY3JpYmUgcXXDqSBkZWJlcsOtYSBoYWJlciBvY3Vycmlkby4KICAgICAgcGxhY2Vob2xkZXI6IExhIGFwbGljYWNpw7NuIGRlYmVyw61hLi4uCiAgICB2YWxpZGF0aW9uczoKICAgICAgcmVxdWlyZWQ6IHRydWUKCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IHNjcmVlbnNob3RzCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogRm90b3MgbyBjYXB0dXJhcyBkZWwgZXJyb3IKICAgICAgZGVzY3JpcHRpb246IEFycmFzdHJhIGFxdcOtIGxhcyBpbcOhZ2VuZXMgbyBwZWdhIHN1cyBlbmxhY2VzLiBTaSBubyBwdWVkZXMgYWRqdW50YXIgbmluZ3VuYSwgaW5kaWNhIHBvciBxdcOpLgogICAgICBwbGFjZWhvbGRlcjogQXJyYXN0cmEgbGFzIGltw6FnZW5lcyBhcXXDrSBvIHBlZ2Egc3VzIGVubGFjZXMuLi4KICAgIHZhbGlkYXRpb25zOgogICAgICByZXF1aXJlZDogdHJ1ZQoKICAtIHR5cGU6IHRleHRhcmVhCiAgICBpZDogbG9ncwogICAgYXR0cmlidXRlczoKICAgICAgbGFiZWw6IFJlZ2lzdHJvcyBvIG1lbnNhamUgZGUgZXJyb3IKICAgICAgZGVzY3JpcHRpb246IFBlZ2EgZWwgbWVuc2FqZSBtb3N0cmFkbyBvIHJlZ2lzdHJvcyByZWxldmFudGVzLiBFbGltaW5hIGFudGVzIGN1YWxxdWllciBkYXRvIHNlbnNpYmxlLgogICAgICByZW5kZXI6IHRleHQKCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IGFkZGl0aW9uYWwtY29udGV4dAogICAgYXR0cmlidXRlczoKICAgICAgbGFiZWw6IEluZm9ybWFjacOzbiBhZGljaW9uYWwKICAgICAgZGVzY3JpcHRpb246IEHDsWFkZSBwYXNvcyBhbHRlcm5hdGl2b3MsIHBlcm1pc29zIGludm9sdWNyYWRvcywgY29uZXhpw7NuIHV0aWxpemFkYSB1IG90cm8gY29udGV4dG8gw7p0aWwu
+name: Reporte de error Android
+description: Reporta un problema reproducible en la aplicación Android
+title: "[Bug Android]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por ayudarnos a mejorar la aplicación. Completa todos los campos posibles y no incluyas contraseñas, tokens ni datos personales.
+
+  - type: input
+    id: android-version
+    attributes:
+      label: Versión de Android
+      description: Indica la versión del sistema operativo Android del teléfono (por ejemplo, Android 14). No introduzcas aquí la versión de la aplicación.
+      placeholder: Android 14
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Versión de la aplicación
+      description: Puedes encontrarla en la pantalla "Acerca de" o en la tienda de aplicaciones.
+      placeholder: 1.2.3
+    validations:
+      required: true
+
+  - type: input
+    id: device-model
+    attributes:
+      label: Modelo del celular
+      description: Incluye fabricante y modelo exacto.
+      placeholder: Samsung Galaxy A54 5G
+    validations:
+      required: true
+
+  - type: input
+    id: ram
+    attributes:
+      label: RAM del dispositivo
+      description: Indica la memoria RAM disponible o instalada, si la conoces.
+      placeholder: 8 GB
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: Frecuencia del error
+      options:
+        - Siempre
+        - A veces
+        - Ocurrió una sola vez
+        - No lo sé
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del error
+      description: Explica qué ocurrió, qué estabas haciendo y por qué representa un problema.
+      placeholder: La aplicación se cierra al...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Pasos para reproducir el error
+      description: Escribe los pasos exactos desde que abres la aplicación hasta que aparece el problema.
+      placeholder: |
+        1. Abre la aplicación.
+        2. Ve a...
+        3. Pulsa...
+        4. Observa que...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Comportamiento esperado
+      description: Describe qué debería haber ocurrido.
+      placeholder: La aplicación debería...
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Fotos o capturas del error
+      description: Arrastra aquí las imágenes o pega sus enlaces. Si no puedes adjuntar ninguna, indica por qué.
+      placeholder: Arrastra las imágenes aquí o pega sus enlaces...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Registros o mensaje de error
+      description: Pega el mensaje mostrado o registros relevantes. Elimina antes cualquier dato sensible.
+      render: text
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Información adicional
+      description: Añade pasos alternativos, permisos involucrados, conexión utilizada u otro contexto útil.
