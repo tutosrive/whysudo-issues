@@ -1,0 +1,49 @@
+name: Solicitud o propuesta
+description: Propón una función, mejora, cambio o cualquier otra idea para la aplicación
+title: "[Solicitud]: "
+assignees: ["tutosrive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por compartir tu idea. Describe lo que te gustaría ver en la aplicación con el mayor detalle posible y no incluyas datos sensibles.
+
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: ¿Qué quieres solicitar?
+      options:
+        - Una función nueva
+        - Un cambio o mejora
+        - Una corrección
+        - Documentación o información
+        - Otro
+    validations:
+      required: true
+
+  - type: textarea
+    id: request
+    attributes:
+      label: ¿Qué te gustaría ver?
+      description: Explica claramente la función, cambio o idea que propones.
+      placeholder: Me gustaría que la aplicación...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: ¿Por qué sería útil?
+      description: Cuéntanos qué problema resolvería o cómo mejoraría tu experiencia.
+      placeholder: Esto sería útil porque...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Información adicional
+      description: Añade ejemplos, referencias, capturas o cualquier otro detalle que ayude a entender la propuesta.
+      placeholder: Puedes arrastrar imágenes o pegar enlaces aquí.
+    validations:
+      required: false
