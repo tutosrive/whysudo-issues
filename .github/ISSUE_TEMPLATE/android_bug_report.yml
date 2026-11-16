@@ -22,7 +22,7 @@ body:
     id: app-version
     attributes:
       label: Versión de la aplicación
-      description: Ve a la sección de "Settings", da click en "About", y verás la versión de la aplicación en un texto asi: `v0.x.x | @tutosrive | ©️ 202x |`.
+      description: 'Ve a la sección de "Settings", da click en "About", y verás la versión de la aplicación en un texto asi: `v0.x.x | @tutosrive | ©️ 202x |`.'
       placeholder: 0.5.1
     validations:
       required: true
