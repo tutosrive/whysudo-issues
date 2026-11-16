@@ -1,6 +1,7 @@
 name: Reporte de error Android
 description: Reporta un problema reproducible en la aplicación Android
 title: "[Bug Android]: "
+assignees: ["tutosrive"]
 labels:
   - bug
 body:
