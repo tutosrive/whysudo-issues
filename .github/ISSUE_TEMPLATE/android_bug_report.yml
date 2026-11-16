@@ -80,22 +80,13 @@ body:
       required: true
 
   - type: textarea
-    id: expected-behavior
-    attributes:
-      label: Comportamiento esperado
-      description: Describe qué debería haber ocurrido.
-      placeholder: La aplicación debería...
-    validations:
-      required: true
-
-  - type: textarea
     id: screenshots
     attributes:
       label: Fotos o capturas del error
       description: Arrastra aquí las imágenes o pega sus enlaces. Si no puedes adjuntar ninguna, indica por qué.
-      placeholder: Arrastra las imágenes aquí o pega sus enlaces...
+      placeholder: Arrastra/Pega las imágenes aquí o pega sus enlaces...
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: logs
