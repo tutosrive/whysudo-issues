@@ -2,6 +2,8 @@ name: Solicitud o propuesta
 description: Propón una función, mejora, cambio o cualquier otra idea para la aplicación
 title: "[Solicitud]: "
 assignees: ["tutosrive"]
+labels: ["enhancement"]
+type: "Feature"
 body:
   - type: markdown
     attributes:
